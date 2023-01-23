@@ -21,9 +21,17 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-icons": "^4.7.1",
+    "sequelize": "^6.3.5",
+    "sinon": "^6.3.5",
     "underscore": "^1.12.1"
   }
 }

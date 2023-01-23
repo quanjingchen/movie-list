@@ -23,25 +23,37 @@ form {
   height: 25px;
   border:1px solid grey;
   padding: 20px 50px;
-
 }
 
 .item-title {
   float:left
-
 }
 
 .btn-watch-list {
   width: 100px;
   height: 40px;
-
 }
 
-.btn-watched {
-  float: right
+
+
+
+.btn-watched, .fa-trash {
+  display: inline-block;
+  float: right;
+  margin-left:50px;
 }
+
+
+
 
 .btn-watched:hover {
   color: green
+}
+
+
+
+.searchResult:hover {
+  text-decoration: underline;
+  color: blueviolet;
 }
 
